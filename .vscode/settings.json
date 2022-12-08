@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "assert.h": "c",
+        "types.h": "c",
+        "fcntl.h": "c",
+        "defs.h": "c",
+        "ptentry.h": "c",
+        "read_ext2.h": "c",
+        "runscan.h": "c",
+        "typeinfo": "c"
+    }
+}

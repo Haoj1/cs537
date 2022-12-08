@@ -1,0 +1,8 @@
+alias ls /bin/ls
+alias
+
+ls -l
+
+unalias ls
+
+

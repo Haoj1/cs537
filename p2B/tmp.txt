@@ -1,0 +1,11 @@
+Makefile
+mysh
+mysh.c
+next
+pre_name
+test_cmd.txt
+tester
+tests
+tests-out
+tmp.tx
+tmp.txt
